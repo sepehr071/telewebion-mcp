@@ -1,0 +1,101 @@
+{
+ "body": {
+  "queryEpisode": [
+   {
+    "EpisodeID": "0x12de42a9",
+    "channel": {
+     "ChannelID": "0x1b1a6d1",
+     "descriptor": "tv1",
+     "image_name": "9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a",
+     "name": "شبکه 1"
+    },
+    "copyright": false,
+    "cover": null,
+    "created_at": "2025-05-09T17:26:59Z",
+    "description": null,
+    "download_count": 26968,
+    "downloadable": true,
+    "downloadableForUser": true,
+    "duration": 2763,
+    "enable": true,
+    "ended_at": "2025-05-09T20:51:07Z",
+    "episode_files": [
+     {
+      "EpisodeFileID": "0x12de42b0",
+      "size": 378.904655,
+      "title": "اقتصادی (۴۸۰p)",
+      "variant": "480p"
+     },
+     {
+      "EpisodeFileID": "0x12de42b1",
+      "size": 554.063548,
+      "title": "وضوح متوسط (HD)",
+      "variant": "720p"
+     },
+     {
+      "EpisodeFileID": "0x12de42b2",
+      "size": 864.463019,
+      "title": "وضوح بالا (Full HD)",
+      "variant": "1080p"
+     }
+    ],
+    "episode_token": "REDACTED",
+    "episode_type": "NORMAL",
+    "exclude_periods": [
+     {
+      "end_at": "2025-05-09T20:05:13Z",
+      "start_at": "2025-05-09T20:04:09Z",
+      "title": null,
+      "type": []
+     }
+    ],
+    "file_path": null,
+    "file_size": null,
+    "id": null,
+    "image": "4e1d4584-5044-4778-aa99-19dd96d76fe6",
+    "is_clip": false,
+    "is_gone": null,
+    "is_hot": "false",
+    "is_latest": false,
+    "next_episode": null,
+    "page_description": null,
+    "program": {
+     "ProgramID": "0x11e5eaeb",
+     "copyright": false,
+     "cover": null,
+     "enable": true,
+     "id": null,
+     "image": "cc2f7b65-f078-4bab-b1b7-07f4a24cd70c",
+     "is_singleton": null,
+     "tags": [
+      {
+       "TagID": "0x1b1b14e",
+       "__typename": "Tag",
+       "name": "کمدی"
+      },
+      {
+       "TagID": "0x1b20a3a",
+       "__typename": "Tag",
+       "name": "سریال ایرانی"
+      },
+      {
+       "TagID": "0x1b23f37",
+       "__typename": "Tag",
+       "name": "سریال"
+      }
+     ],
+     "title": "پایتخت 7",
+     "web_background_url": null,
+     "web_image_url": null
+    },
+    "show_time": null,
+    "started_at": "2025-05-09T20:04:00Z",
+    "tags": [],
+    "thumbnail_time": "2025-05-09T20:45:00Z",
+    "title": "قسمت دوم پشت صحنه",
+    "view_count": 351360
+   }
+  ]
+ },
+ "message": "success"
+}

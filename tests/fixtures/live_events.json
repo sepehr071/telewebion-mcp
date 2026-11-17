@@ -1,0 +1,97 @@
+{
+ "body": {
+  "liveEventConductorComponentByDate": {
+   "ComponentID": "0x16c0ce6a",
+   "conductor_type": "ADVANCED",
+   "default_time_range": "NEXT_48_HOURS",
+   "label": "پخش زنده",
+   "live_events": [
+    {
+     "ComponentID": "0x16d2c357",
+     "end_time": "2026-11-09T15:00:00Z",
+     "event_context": "لیگ آزادگان",
+     "event_stage": "هفته دهم",
+     "hidden_tags": [
+      {
+       "TagID": "0x16b6f9a2",
+       "name": "لیگ آزادگان"
+      }
+     ],
+     "label": "پارس جنوبی جم - فولاد ب",
+     "link": "https://telewebion.ir/live-event/folad-pars-05-08-25",
+     "live_banner_url": "bannerImages/becbc296-49cb-4df5-85ca-8ac1de69b51c",
+     "pre_post_match_banner_url": "bannerImages/5ed9c509-0328-4b67-8dd1-8706b792be88",
+     "start_time": "2026-11-16T13:00:00Z",
+     "team1_football_penalty": null,
+     "team1_name": null,
+     "team1_result": null,
+     "team2_football_penalty": null,
+     "team2_name": null,
+     "team2_result": null,
+     "title": "folad-pars-05-08-25"
+    },
+    {
+     "ComponentID": "0x16d2f51a",
+     "end_time": "2026-11-16T15:30:22Z",
+     "event_context": "لیگ مردان آسیای مرکزی 2026",
+     "event_stage": null,
+     "hidden_tags": [
+      {
+       "TagID": "0x1b221f5",
+       "name": "والیبال"
+      }
+     ],
+     "label": "والیبال فولاد سیرجان - تورپیدوز بنگور",
+     "link": "https://telewebion.ir/live-event/volley-folad-torpidoz-05-08-25",
+     "live_banner_url": "bannerImages/da1e8949-d109-44f5-8140-c3e6ceed388d",
+     "pre_post_match_banner_url": "bannerImages/06d7ba10-0c17-4858-8056-b16d79b8e108",
+     "start_time": "2026-11-16T13:00:46Z",
+     "team1_football_penalty": null,
+     "team1_name": null,
+     "team1_result": null,
+     "team2_football_penalty": null,
+     "team2_name": null,
+     "team2_result": null,
+     "title": "volley-folad-torpidoz-05-08-25"
+    },
+    {
+     "ComponentID": "0x16d2c362",
+     "end_time": "2026-11-16T17:00:00Z",
+     "event_context": "لیگ ملت های اروپا",
+     "event_stage": null,
+     "hidden_tags": [
+      {
+       "TagID": "0x16cd5d0e",
+       "name": "لیگ ملت های اروپا"
+      }
+     ],
+     "label": "قزاقستان - اسلواکی",
+     "link": "https://telewebion.ir/live-event/slovakia-kazakestan-05-08-25",
+     "live_banner_url": "bannerImages/c3d74a0f-c561-4f3f-a3e1-86ee14f6e8e9",
+     "pre_post_match_banner_url": "bannerImages/da45d1b7-101d-4994-b4ff-69ee2cf48c4d",
+     "start_time": "2026-11-16T15:00:00Z",
+     "team1_football_penalty": null,
+     "team1_name": null,
+     "team1_result": null,
+     "team2_football_penalty": null,
+     "team2_name": null,
+     "team2_result": null,
+     "title": "slovakia-kazakestan-05-08-25"
+    }
+   ],
+   "scheduled_tags": [
+    {
+     "TagID": "0x16cd5d0e",
+     "name": "لیگ ملت های اروپا"
+    },
+    {
+     "TagID": "0x1b1ea03",
+     "name": "دیدارهای دوستانه"
+    }
+   ],
+   "size": "normal",
+   "title": "ردیف کنداکتوری تست اسپیس اسپورت - ورزش - تست"
+  }
+ },
+ "message": "success"
+}

@@ -1,0 +1,67 @@
+{
+ "body": {
+  "queryProgram": [
+   {
+    "ProgramID": "0x11e5eaeb",
+    "background": "56d51f52-6352-4831-9142-32c71a9580a4",
+    "cover": null,
+    "created_at": "2025-03-12T11:20:50.583Z",
+    "episodes": [
+     {
+      "EpisodeID": "0x12de42a9",
+      "copyright": false,
+      "created_at": "2025-05-09T17:26:59.633Z",
+      "description": null,
+      "duration": 2763,
+      "enable": true,
+      "image": "4e1d4584-5044-4778-aa99-19dd96d76fe6",
+      "is_clip": false,
+      "title": "قسمت دوم پشت صحنه",
+      "title_en": null,
+      "updated_at": "2026-01-07T07:57:04Z",
+      "view_count": 351361
+     },
+     {
+      "EpisodeID": "0x12d94b03",
+      "copyright": false,
+      "created_at": "2025-05-08T17:19:48.796Z",
+      "description": null,
+      "duration": 2960,
+      "enable": true,
+      "image": "de08881b-9435-43dd-9311-0b00f90e4c6c",
+      "is_clip": false,
+      "title": "قسمت اول پشت صحنه",
+      "title_en": null,
+      "updated_at": "2026-01-07T07:57:04Z",
+      "view_count": 158897
+     },
+     {
+      "EpisodeID": "0x128f200b",
+      "copyright": false,
+      "created_at": "2025-04-18T20:17:14Z",
+      "description": null,
+      "duration": 3962,
+      "enable": true,
+      "image": "0daf2071-dd29-4b68-9940-321bba8f60a4",
+      "is_clip": false,
+      "title": "خلاصه قسمت های 21 و 22",
+      "title_en": null,
+      "updated_at": "2026-01-07T07:56:49Z",
+      "view_count": 231926
+     }
+    ],
+    "image": "cc2f7b65-f078-4bab-b1b7-07f4a24cd70c",
+    "image_mobile": null,
+    "is_singleton": null,
+    "season_count": null,
+    "summary": "با برخورد شهاب سنگ به خانه نقی معمولی، ارسطو و رحمت تلاش می کنند موضوع شهاب سنگ را از نقی پنهان کنند و خودشان سنگ را بفروشند. برای سود بیشتر تلاش می کنند شهاب سنگ را به خارج منتقل کنند برای همین رفتن پیش خانواده‌ی نامزد تاجیکی نیکا، آن‌ها را روانه جاده می کند.",
+    "title": "پایتخت 7",
+    "title_en": "Paytakht 7",
+    "view_count": 115137778,
+    "web_background_url": "programImages/cc2f7b65-f078-4bab-b1b7-07f4a24cd70c",
+    "web_image_url": "programImages/56d51f52-6352-4831-9142-32c71a9580a4"
+   }
+  ]
+ },
+ "message": "success"
+}

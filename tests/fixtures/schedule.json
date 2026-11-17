@@ -1,0 +1,166 @@
+{
+ "body": {
+  "queryChannel": [
+   {
+    "ChannelID": "0x1b1a761",
+    "descriptor": "tv3",
+    "episodes": [
+     {
+      "EpisodeID": "0x16d2f97f",
+      "channel": {
+       "ChannelID": "0x1b1a761",
+       "descriptor": "tv3",
+       "image_name": "MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg",
+       "name": "شبکه 3"
+      },
+      "cover": null,
+      "duration": 3256,
+      "ended_at": "2026-11-16T13:53:13Z",
+      "exclude_periods": [],
+      "image": "4d989044-5dff-4714-8591-d4bf3bd955be",
+      "program": {
+       "ProgramID": "0x12112610",
+       "cover": null,
+       "id": null,
+       "is_singleton": null,
+       "tags": [
+        {
+         "TagID": "0x1b22e99"
+        }
+       ],
+       "title": "سمت خدا 1405",
+       "web_background_url": "programImages/c23a1eef-cfa4-4ce4-ac49-4a1355b190d0",
+       "web_image_url": "programImages/2968386a-38b7-4afa-91f8-a505a9b4f70a"
+      },
+      "show_time": null,
+      "started_at": "2026-11-16T12:58:56Z",
+      "tags": [],
+      "thumbnail_time": "2026-11-16T09:52:30Z",
+      "title": "۲۵ آبان ۱۴۰۵ - حجت الاسلام پناهیان",
+      "view_count": 105
+     },
+     {
+      "EpisodeID": "0x16d2f816",
+      "channel": {
+       "ChannelID": "0x1b1a761",
+       "descriptor": "tv3",
+       "image_name": "MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg",
+       "name": "شبکه 3"
+      },
+      "cover": null,
+      "duration": 744,
+      "ended_at": "2026-11-16T12:32:36Z",
+      "exclude_periods": [],
+      "image": "63856d07-ab1c-4d77-9a9a-1a3855abed61",
+      "program": {
+       "ProgramID": "0x14d4c4bf",
+       "cover": null,
+       "id": null,
+       "is_singleton": null,
+       "tags": [
+        {
+         "TagID": "0x1b23154"
+        }
+       ],
+       "title": "ایران جان",
+       "web_background_url": "programImages/af4a7cbb-f4b3-4bb7-a863-f09b75dd42c5",
+       "web_image_url": "programImages/604ec2d3-b863-426b-ab3d-91af0d3c0245"
+      },
+      "show_time": null,
+      "started_at": "2026-11-16T12:20:12Z",
+      "tags": [
+       {
+        "TagID": "0x13261924"
+       }
+      ],
+      "thumbnail_time": "2026-11-16T09:01:22Z",
+      "title": "حلقه های گم شده - 25 آبان 1405",
+      "view_count": 139
+     },
+     {
+      "EpisodeID": "0x16d2f7e0",
+      "channel": {
+       "ChannelID": "0x1b1a761",
+       "descriptor": "tv3",
+       "image_name": "MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg",
+       "name": "شبکه 3"
+      },
+      "cover": null,
+      "duration": 290,
+      "ended_at": "2026-11-16T12:09:58Z",
+      "exclude_periods": [],
+      "image": "e9b39b5e-d4ac-4125-8c62-7dbf12146d13",
+      "program": {
+       "ProgramID": "0x12360aea",
+       "cover": null,
+       "id": null,
+       "is_singleton": null,
+       "tags": [
+        {
+         "TagID": "0x1b224d0"
+        }
+       ],
+       "title": "گزارش روز ۱۴0۵ (شبکه ۳)",
+       "web_background_url": "programImages/3a101432-2dbc-4f17-9a9a-2829137d98da",
+       "web_image_url": "programImages/6e892ae8-f2e5-476a-a2b5-3fda615fb9f5"
+      },
+      "show_time": null,
+      "started_at": "2026-11-16T12:05:07Z",
+      "tags": [],
+      "thumbnail_time": "2026-11-16T08:37:45Z",
+      "title": "پنجمین رویداد ملی جایزه امیر - 25 آبان 1405",
+      "view_count": 127
+     },
+     {
+      "EpisodeID": "0x16d2f79e",
+      "channel": {
+       "ChannelID": "0x1b1a761",
+       "descriptor": "tv3",
+       "image_name": "MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg",
+       "name": "شبکه 3"
+      },
+      "cover": null,
+      "duration": 1048,
+      "ended_at": "2026-11-16T12:02:27Z",
+      "exclude_periods": [],
+      "image": "8a6f096f-c66e-48f3-aab6-5b3420a6087f",
+      "program": {
+       "ProgramID": "0xb00d058",
+       "cover": null,
+       "id": null,
+       "is_singleton": null,
+       "tags": [
+        {
+         "TagID": "0x1b22e99"
+        }
+       ],
+       "title": "اذان و نماز (شبکه ۳)",
+       "web_background_url": "programImages/fd49e777-5782-4cc7-b3ac-b7d10007ba0f",
+       "web_image_url": "programImages/acc744f6-a2cb-48f0-a0f5-dd319b37782d"
+      },
+      "show_time": null,
+      "started_at": "2026-11-16T11:44:58Z",
+      "tags": [],
+      "thumbnail_time": "2026-11-16T08:30:36Z",
+      "title": "25 آبان 1405 - بخش 2",
+      "view_count": 198
+     }
+    ],
+    "name": "شبکه 3"
+   },
+   {
+    "ChannelID": "0x1644d030",
+    "descriptor": "tv3",
+    "episodes": [],
+    "name": null
+   },
+   {
+    "ChannelID": "0x164927f6",
+    "descriptor": "tv3",
+    "episodes": [],
+    "name": null
+   }
+  ]
+ },
+ "message": "success"
+}
