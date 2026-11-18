@@ -1,6 +1,6 @@
 [project]
 name = "telewebion-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "Unofficial read-only MCP server for Telewebion (تلوبیون, telewebion.ir), IRIB live TV: channels, what aired, programs, episodes, live sports."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"
