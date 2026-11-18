@@ -81,10 +81,6 @@ Real answer (17 Nov 2026): `tv_live_now()` returned the latest program on TV1 as
 - Playback, stream links, downloads and anything behind a login are not covered.
 - Telewebion answers both Iranian and foreign networks in testing; if yours is blocked, set `TELEWEBION_MCP_PROXY`. The server ignores system proxy variables on purpose.
 
-## How it works
-
-Telewebion has no public API documentation. The endpoints behind telewebion.ir were mapped by watching the site in Chrome, and each tool was checked in Chrome against the real rendered pages (channel list, schedule, live now, search, program, episode, live events) on 16 Nov 2026. That check found live-event times in UTC where the site shows Tehran time; the tool converts them. The server calls the public gateway through a Chrome-impersonating HTTP client, with a short cache and at most two requests at a time.
-
 ## فارسی
 
 <div dir="rtl">
